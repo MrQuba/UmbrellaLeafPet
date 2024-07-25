@@ -1,0 +1,17 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	GreenUmbrella: {
+		DisplayName: Green Umbrella
+		Tooltip: Summons Umbrella Leaf
+	}
+}
+
+Projectiles.UmbrellaLeaf.DisplayName: Umbrella Leaf
+
+Buffs: {
+	LeafBuff: {
+		Description: Umbrella Leaf watches you
+		DisplayName: Leaf Buff
+	}
+}
